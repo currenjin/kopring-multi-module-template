@@ -1,0 +1,3 @@
+package com.wemeet.controller
+
+class ExampleReadControllerTest

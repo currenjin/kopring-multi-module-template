@@ -1,0 +1,22 @@
+spring:
+  profiles:
+    active:
+  datasource:
+    driver-class-name:
+    url:
+    username:
+    password:
+  jpa:
+    hibernate:
+      ddl-auto:
+    properties:
+      hibernate:
+        format_sql:
+        show_sql:
+
+logging:
+  level:
+    root:
+    org.hibernate:
+      type.descriptor.sql:
+      SQL:
