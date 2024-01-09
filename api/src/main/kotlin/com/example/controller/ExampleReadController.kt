@@ -1,7 +1,7 @@
-package com.wemeet.controller
+package com.example.controller
 
-import com.wemeet.application.ExampleReader
-import com.wemeet.controller.response.ExampleResponse
+import com.example.application.ExampleReader
+import com.example.controller.response.ExampleResponse
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable

@@ -1,3 +1,3 @@
-package com.wemeet.controller
+package com.example.controller
 
 class ExampleReadControllerTest

@@ -1,8 +1,8 @@
-package com.wemeet.application.impl
+package com.example.application.impl
 
-import com.wemeet.application.ExampleReader
-import com.wemeet.domain.Example
-import com.wemeet.domain.ExampleRepository
+import com.example.application.ExampleReader
+import com.example.domain.Example
+import com.example.domain.ExampleRepository
 import org.springframework.stereotype.Service
 
 @Service

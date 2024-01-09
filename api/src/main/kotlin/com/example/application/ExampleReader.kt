@@ -1,6 +1,6 @@
-package com.wemeet.application
+package com.example.application
 
-import com.wemeet.domain.Example
+import com.example.domain.Example
 
 interface ExampleReader {
     fun readBy(name: String): Example

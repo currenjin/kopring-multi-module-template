@@ -1,4 +1,4 @@
-package com.wemeet.domain
+package com.example.domain
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
