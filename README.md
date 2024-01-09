@@ -1,10 +1,10 @@
 # Description
-| Write the project name and introduction.
+> Write the project name and introduction.
 
 Layered Architecture 기반의 Kotlin + Spring Multi module 프로젝트 템플릿입니다.
 
 # Repository Overview
-| Write the directory structure.
+> Write the directory structure.
 
 Kopring multi moudle template은 기본적으로 Layered Architecture 기반의 api, core 모듈을 갖고 있습니다.
 각각의 역할은 아래와 같습니다.
@@ -28,7 +28,7 @@ Domain, Infrastructure Layer가 패키지로 포함됩니다.
 외부와의 통신(DB, Messaging System 등)을 담당합니다.
 
 # Getting Started
-| Write the 'How to run?' and environment.
+> Write the 'How to run?' and environment.
 
 ## Version
 - Java : 21
@@ -40,4 +40,4 @@ $ ./gradlew build
 ```
 
 # Example
-| Write simple instructions and examples.
+> Write simple instructions and examples.
